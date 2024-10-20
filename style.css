@@ -1,0 +1,36 @@
+.r-btn{
+  border-radius: 15px;
+  border: none;
+  height: 50px;
+  width: 100px;
+  color: white;
+  background: #ff0000;
+}
+.b-btn{
+  border-radius: 15px;
+  border: none;
+  border: none;
+  height: 50px;
+  width: 100px;
+  color: white;
+  background: blue;
+}
+.g-btn{
+  border-radius: 15px;
+  border: none;
+  height: 50px;
+  border: none;
+  width: 100px;
+  color: white;
+  background: green;
+}
+.ran-btn{
+  border-radius: 15px;
+  border: none;
+  height: 50px;
+  width: 100px;
+  color: rgb(201, 192, 192);
+}
+h1{
+  color: rgb(0, 0, 0);
+}
